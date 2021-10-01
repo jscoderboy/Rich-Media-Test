@@ -1,1 +1,1 @@
-# Rich-Media-Test
+# Html-Image-Carousel
